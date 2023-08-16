@@ -6,7 +6,4 @@ layout: home
 
 ---
 
-
-# Does it work?
-
-yes it does indeed work
+[library](book_library.html)
